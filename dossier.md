@@ -22,3 +22,4 @@
  
   Afin de mener à bien ce projet, il nous faut nous munir de matériel de DJ : En effet, pour des raisons de sécurité et de responsabilité, il nous est indispensable de posséder deux platines de type CDJ, ainsi qu'une table de mixage, le matériel de sonorisation disponible dans la MDE étant suffisant pour nos premières éditions. 
   Nous avons étudié deux options : l'achat et la location. La location est très coûteuse, puisqu'elle ne concerne que des ensembles platine/table de haute qualité. En ajoutant la caution, le prix est quasiment égal à l'achat d'un ensemble de milieu de gamme. 
+  Nous prévoyons deux à trois évènements cette année, dont les dates et la programmation sera décidée durant l'été.
