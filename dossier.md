@@ -23,3 +23,20 @@
   Afin de mener à bien ce projet, il nous faut nous munir de matériel de DJ : En effet, pour des raisons de sécurité et de responsabilité, il nous est indispensable de posséder deux platines de type CDJ, ainsi qu'une table de mixage, le matériel de sonorisation disponible dans la MDE étant suffisant pour nos premières éditions. 
   Nous avons étudié deux options : l'achat et la location. La location est très coûteuse, puisqu'elle ne concerne que des ensembles platine/table de haute qualité. En ajoutant la caution, le prix est quasiment égal à l'achat d'un ensemble de milieu de gamme. 
   Nous prévoyons deux à trois évènements cette année, dont les dates et la programmation sera décidée durant l'été.
+
+# Projet Versity
+
+ Le projet Versity est le projet historique d'Echo. Démarré par les LAN Parties des Master il y a de cela deux ans, les soirées Versity ont su fédérer une communauté autour du jeu vidéo, aussi bien compétitif qu'occasionnel. Notre dernière édition a été un franc succès critique et organisationnel, avec des compliments aussi bien de la part des participants que des services internes de la fac (gardiennage, DISI, Depinfo..), témoignant de notre dédication et de notre sérieux. 
+ 
+ Renforcés par ces expériences positives, nous souhaitons monter en puissance et proposer un évènement encore plus important : 
+ Une LAN Party Versity dans le Restaurant Universitaire du site St Martin, qui durerait plus de temps. En effet, nous avons longtemps été limités à une heure butoir de minuit : nous aimerions dépasser cette heure. 
+ 
+ De nombreux pas ont déjà été faits l'année précédente, où nous avons eu divers entretiens avec la direction du CROUS et les équipes de la DISI/DPI : Tous étaient très enthousiastes par rapport à notre projet. 
+ 
+## Qu'est-ce qu'une LAN Party ?
+
+ Pour plus d'informations concernant les soirées Versity et les LAN Parties, consultez notre site internet : [Veritylan.com ](http://versitylan.com/)
+ 
+## De quoi avons nous besoin ?
+
+  JE SAIS PAS.
