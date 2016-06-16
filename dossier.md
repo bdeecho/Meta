@@ -1,13 +1,13 @@
-1) Présentation Boiler Room
+#Présentation des Boiler Room
 
-Qu'est-ce qu'une Boiler Room ?
+## Qu'est-ce qu'une Boiler Room ?
 
 	[AJOUTER HISTOIRE BOILER ROOM]
-	Une boiler room est un genre de soirée dont le sujet est la musique électronique. Ces soirées sont caractérisés par la prestation d'un ou plusieurs DJ. Ces prestations ne sont pas à l'images des grands DJ qui généralement se situent sur une scène face au public. En effet, les DJs sont sur le stand qui est lui même situé au milieu du public.
+   Une boiler room est un genre de soirée dont le sujet est la musique électronique. Ces soirées sont caractérisés par la prestation d'un ou plusieurs DJ. Ces prestations ne sont pas à l'images des grands DJ qui généralement se situent sur une scène face au public. En effet, les DJs sont sur le stand qui est lui même situé au milieu du public.
 De plus, ces soirées sont retransmisent en direct sur internet à l'aide d'une caméra située sur le stand.
 
 
-Pourquoi faire des Boiler Room ?
+## Pourquoi faire des Boiler Room ?
 
 Les boilers room ont pour but de mettre en avant deux choses :
 - La culture de la musique électronique
@@ -21,6 +21,6 @@ C'est ainsi que nous nous sommes dis qu'il pouvait être intéressant d'organise
 En effet, très peu d'événements sont organisés sur les sites de l'Université, et nous pensons que transformé ces lieux de travails habituellement en lieu festifs serait une opportunités pour renforcer le lien qu'on les étudiants avec leur campus.
 
 
-Quel matériel pour ces soirées ?
+## Quel matériel pour ces soirées ?
 
 Il est nécessaire pour ce genre de soirée d'avoir du matériel de bonne qualité, permettant ainsi de proposer un événement de qualité. L'intérêt d'avoir des platines CD ainsi qu'une table de mixage appartenant a l'organisme responsable de l'événements permet d'enlever une charge qui pourrait refroidir certains étudiants à venir en tant que DJ. En effet, ce genre de matériel étant assez couteux et encombrant, nous ne pouvons pas demander aux étudiants DJ voulant participer de venir avec leurs propre matériel. En effet, beaucoup d'étudiants viennent en transports et nous ne pouvons leurs demandé de se déplacer avec tout leur matériel. De plus, on ne peut pas non plus leur demandé de prendre le risque d'abimer leur matériel personnel et d'en être responsable. C'est pourquoi nous estimons que pour le confort des futurs DJ, il serait préférable que notre associations est son propre matériel.
