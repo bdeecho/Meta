@@ -23,6 +23,10 @@
   Afin de mener à bien ce projet, il nous faut nous munir de matériel de DJ : En effet, pour des raisons de sécurité et de responsabilité, il nous est indispensable de posséder deux platines de type CDJ, ainsi qu'une table de mixage, le matériel de sonorisation disponible dans la MDE étant suffisant pour nos premières éditions. 
   Nous avons étudié deux options : l'achat et la location. La location est très coûteuse, puisqu'elle ne concerne que des ensembles platine/table de haute qualité. En ajoutant la caution, le prix est quasiment égal à l'achat d'un ensemble de milieu de gamme. 
   Nous prévoyons deux à trois évènements cette année, dont les dates et la programmation sera décidée durant l'été.
+  
+  Le matériel choisis est le suivant :
+  2*CDJ 850 : http://www.sonovente.com/pioneer-cdj-850k-p33217.html?gclid=CNjOzNHNrs0CFUI_GwodEcUDbg#ectrans=1
+  Xone 43 : http://www.sonovente.com/allen-heath-xone-43-p47077.html
 
 # Projet Versity
 
@@ -39,4 +43,4 @@
  
 ## De quoi avons nous besoin ?
 
-  JE SAIS PAS.
+  Le site nous permet de gérer les inscriptions pour les événements, mais aussi d'avoir une bonne visibilité au sein de l'université. Nous avons donc besoin d'avoir un site qui fonctionne toute l'année.
