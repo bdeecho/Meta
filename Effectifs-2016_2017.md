@@ -12,7 +12,7 @@
     *
     
 * **Autres :**
-    * *(Pas certain) **Arya Jemo** : *Graphiste*
+    * *(Pas certain)* **Arya Jemo** : *Graphiste*
     *
     *
     
