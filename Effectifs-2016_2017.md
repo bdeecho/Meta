@@ -7,12 +7,6 @@
     * **Claire Nguyen** : *Égérie d'Echo sur le site des Chênes + Trésorerie + Touche à tout*
     
 * **Staff :**
-    *
-    *
-    *
     
 * **Autres :**
     * *(Pas certain)* **Arya Jemo** : *Graphiste*
-    *
-    *
-    
