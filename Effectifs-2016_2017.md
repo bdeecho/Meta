@@ -1,4 +1,4 @@
-**Liste des effectifs d'Echo pour l'année 2016 - 2017**
+# Liste des effectifs d'Echo pour l'année 2016 - 2017
 
 * **Bureau :**
     * **Alexandre Fourgs** : *Président + Touche à tout*
