@@ -10,3 +10,5 @@
     
 * **Autres :**
     * *(Pas certain)* **Arya Jemo** : *Graphiste*
+    * **Bruno Tessier** : *Informatique / Réseau*
+    * **Vincent Monot** : *Préparation / Organisation des événements informatiques*
