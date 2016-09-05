@@ -17,6 +17,7 @@
 
 ## Sujet(s) de la réunion
 
+### Petit laïus sur la prise de note OBLIGATOIRE puisque questions à la fin seulement de l'exposé.
 ### Présentation des différents membres de l'association
 
 On laisse chaque membre se présenter et dire son rôle.
