@@ -12,7 +12,6 @@ La décoration du local est un point essentiel dans nos projets d'animation de l
   - Une lampe à LED Ikea HARTE
   - Un tapis PANDRUP
   - Des coussins ULLKAKTUS et GURLI
-  - Des film teintés de couleur Rouge
   - Une cafetière MOULINEX FT1105N
   - Un micro-ondes Daewoo KOR-6L45DUO
   - Une bouilleoire Moulinex BY105810
