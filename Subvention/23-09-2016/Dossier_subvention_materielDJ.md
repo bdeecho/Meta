@@ -19,5 +19,5 @@ Dans l'optique de proposer à toutes les associations étudiantes du matériel d
 
 Notre matériel se composerait donc de : 
 
-- Pioneer CDJ-900 NEXUS
+- 2 Pioneer CDJ-900 NEXUS
 - Pioneer DJM-850k
