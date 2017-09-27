@@ -46,6 +46,7 @@
 
 #### Divers
 
+* Achat d'une imprimante/scanner ?
 * Des suggestions de l'équipe ?
 * Des idées d'événements ?
 * Des connaissances qui veulent faire partie de l'asso ?
