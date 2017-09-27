@@ -6,7 +6,6 @@
 	* Objectifs générales de l'année
 	* CR rapide trésorerie
 	* Divers
-	* Versity
 * Versity
 	* Date
 	* Horaires
@@ -47,6 +46,7 @@
 #### Divers
 
 * Achat d'une imprimante/scanner ?
+* Site et mails
 * Des suggestions de l'équipe ?
 * Des idées d'événements ?
 * Des connaissances qui veulent faire partie de l'asso ?
