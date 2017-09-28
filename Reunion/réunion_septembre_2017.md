@@ -45,8 +45,9 @@
 
 #### Divers
 
+* Baisse de la cotisation à 3€ ?
 * Achat d'une imprimante/scanner ?
-* Site et mails
+* Site et mails (OVH ou Heroku)
 * Des suggestions de l'équipe ?
 * Des idées d'événements ?
 * Des connaissances qui veulent faire partie de l'asso ?
