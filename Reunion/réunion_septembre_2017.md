@@ -12,6 +12,7 @@
 	* Tournois & inc
 	* Nombre de personnes attendues
 	* Associations partenaires	
+	* Sponsor
 	* Répartitions des rôles
 	* Prévoir prochaine réunion
 
